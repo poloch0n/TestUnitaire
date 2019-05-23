@@ -1,0 +1,24 @@
+11:09:06.384 [main] INFO  dev.logging.App -
+				Bonjour Slf4J !
+11:09:06.387 [main] INFO  dev.logging.App -
+				Implémentation Logback
+11:09:06.388 [main] DEBUG dev.service.AppService -
+				Traitement 1 : param = valeur 1
+11:10:03.476 [main] INFO  dev.logging.App -
+				Bonjour Slf4J !
+11:10:03.480 [main] INFO  dev.logging.App -
+				Implémentation Logback
+11:10:03.480 [main] DEBUG dev.service.AppService -
+				Traitement 1 : param = valeur 1
+11:10:21.050 [main] INFO  dev.logging.App -
+				Bonjour Slf4J !
+11:10:21.052 [main] INFO  dev.logging.App -
+				Implémentation Logback
+11:10:21.053 [main] DEBUG dev.service.AppService -
+				Traitement 1 : param = valeur 1
+11:13:48.285 [main] INFO  dev.logging.App -
+				Bonjour Slf4J !
+11:13:48.291 [main] INFO  dev.logging.App -
+				Implémentation Logback
+11:13:48.293 [main] DEBUG dev.service.AppService -
+				Traitement 1 : param = valeur 1
